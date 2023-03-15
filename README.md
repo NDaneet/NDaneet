@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Daniel Tobi, an aspiring Software Developer and prospective Mechatronics Engineering Graduate.
+I am Daniel Tobi, an aspiring Software Developer and Mechatronics Engineering Graduate.
 
 ### More about me:
 - 🔭 I’m currently working on mobile applications;
