@@ -7,7 +7,7 @@ I am Daniel Tobi Nyorere, an aspiring Robotics Engineer.
 - 🌱 I’m currently learning a range of things;
 - 👯 I’m looking to collaborate on Open Source Projects;
 - 💬 Ask me about anything, I'll be glad to help;
-- 📫 My Twitter is @NDaneet
+- 📫 My Twitter is @1Daneet
 - ⚡ Fun fact: I joke a lot.
 
 ### Languages and Tools
